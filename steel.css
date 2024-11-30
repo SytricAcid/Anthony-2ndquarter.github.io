@@ -1,0 +1,61 @@
+.static { 
+    position: static;
+    font-family: Candera;
+}
+
+.relative { 
+    position: relative;
+    font-family: Candera;
+}
+
+.absolute { 
+    position: absolute;
+    font-family: Candera;
+}
+
+.fixed { 
+    position: fixed;
+    font-family: Candera;
+}
+
+.top { 
+    offset: top;
+    color: red;
+    font-family: Candera;
+}
+
+.right { 
+    offset: right;
+    color: yellow;
+    font-family: Candera;
+}
+
+.bottom { 
+    offset: bottom;
+    color: blue;
+    font-family: Candera;
+}
+
+.left { 
+    offset: left;
+    color: green;
+    font-family: Candera;
+}
+
+.tle { 
+    float: left;
+    color: pink;
+    font-family: Candera;
+}
+
+.ict { 
+    float: right;
+    color: purple;
+    font-family: Candera;
+}
+
+.none { 
+    float: none;
+    color: orange;
+    font-family: Candera;
+}
